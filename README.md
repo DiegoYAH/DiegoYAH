@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Soy QA tester en ControlBox Corp y estudiante de CFGS de desarrollo de aplicaciones web, con experiencia laboral en aseguramiento de calidad de software, conocimiento del ciclo de vida del software, lenguajes de programación como Python y Java, bases de datos en SQL Server y MySQL y metodologías Agiles de trabajo (SCRUM) en programas como Jira. Soy un profesional en formación responsable, honesto y dinámico con excelentes actitudes para trabajar en equipo y dispuesto a aprender y desarrollar nuevas habilidades.
+Soy QA tester en ControlBox Corp y estudiante de CFGS de Desarrollo de Aplicaciones Web, tengo experiencia laboral en aseguramiento de calidad de software, conocimiento del ciclo de vida del software, lenguajes de programación como Python y Java, bases de datos en SQL Server y MySQL y metodologías Agiles de trabajo (SCRUM) en programas como Jira. Soy un profesional en formación responsable, honesto y dinámico con excelentes actitudes para trabajar en equipo y dispuesto a aprender y desarrollar nuevas habilidades.
 
 
 ## 🌐 Redes Sociales:
